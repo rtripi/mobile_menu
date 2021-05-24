@@ -4,4 +4,4 @@ A Simple mobile menu layout, using ::before and ::after for the hamburger menu, 
 
 Not focused on the design part.
 
-https://rtripi.github.io/mobile_menu/
+https://rtripi.github.io/simple_mobile_menu/
